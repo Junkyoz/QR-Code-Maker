@@ -9,7 +9,7 @@
 #                                                                                                                                                                                     
 #  This is a little side project of me where i use my little coding skills to make a QR-Code Generator.
 #
-#  Setup:
+#  Usage
 #  -Download one of the releases
 #  -Execute the file
 #  -every QR-Code you generate will be in the same directory as the QR-Code Maker.exe file
