@@ -5,7 +5,7 @@
 #   | |  | |  _  /______| |    / _ \ / _` |/ _ \ | |\/| |/ _` | |/ / _ \ '__|
 #   | |__| | | \ \      | |___| (_) | (_| |  __/ | |  | | (_| |   <  __/ |   
 #    \___\_\_|  \_\      \_____\___/ \__,_|\___| |_|  |_|\__,_|_|\_\___|_|   
-#                                                                                                                                                                                                                                                                         #                                                 
+#                                                                                                                                                                                                                                                                                             
 #
 #                                                                                                                                                                                     
 #  This is a little side project of me where i use my little coding skills to make a QR-Code Generator.
