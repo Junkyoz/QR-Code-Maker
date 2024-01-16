@@ -5,8 +5,8 @@
    | |  | |  _  /______| |    / _ \ / _` |/ _ \ | |\/| |/ _` | |/ / _ \ '__|
    | |__| | | \ \      | |___| (_) | (_| |  __/ | |  | | (_| |   <  __/ |   
     \___\_\_|  \_\      \_____\___/ \__,_|\___| |_|  |_|\__,_|_|\_\___|_|   
-
-
+         
+         
   Easy to use QR-Code Generator
          
   Usage
@@ -14,4 +14,7 @@
   -Execute the file
   -every QR-Code you generate will be in the same directory as the QR-Code Maker.exe file
 
+Disclaimer:
+  Windows Defender does not like my program so expect to get a virus message (it isnt obviously)
+         
 </pre>
